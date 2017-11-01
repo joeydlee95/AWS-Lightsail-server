@@ -1,8 +1,9 @@
 # Lightsail Amazon Server
 
 ## Introduction
-public IP: 52.34.112.151
-Server Alias Name: ec2-52-25-0-41.us-west-2.compute.amazonaws.com
+- public IP: 52.34.112.151
+- Server Alias Name: ec2-52-25-0-41.us-west-2.compute.amazonaws.com
+- ssh port: 2200
 
 ## Getting Started With Amazon Lightsail
 1. Go to https://amazonlightsail.com/ and you can click the "Get started for free" where you get asked to log in.
